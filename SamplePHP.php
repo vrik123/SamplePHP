@@ -1,5 +1,5 @@
 
-<?php include "dbinfo.inc"; ?>
+<?php include "../inc/dbinfo.inc"; ?>
 <html>
 <body>
 <h1>Please Enter your Name And Address!</h1>
